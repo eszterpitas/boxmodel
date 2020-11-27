@@ -85,3 +85,16 @@ position: relative;
   border: 10px solid #F5A623;
   box-sizing: border-box;
 }
+.container2 {
+  width: 100px;
+  height: 100px;
+  background-color:white;
+  display: block; 
+  font-variant-caps: all-small-caps;
+  font-size: 37px;
+  padding: 0.1% 1.1% 3.5% 0.8%;
+  margin: 15px;
+  border: solid;
+  box-sizing: border-box;
+  line-height: 0.8;
+  }
